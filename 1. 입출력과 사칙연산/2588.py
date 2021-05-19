@@ -1,0 +1,7 @@
+A=int(input())
+B=input()
+c0=A*int(B[2])
+c1=A*int(B[1])
+c2=A*int(B[0])
+result=A*int(B)
+print(c0,c1,c2,result,sep="\n")
